@@ -6,6 +6,17 @@
 - Контроль сборки проектов и управление зависимостями на основе Maven и Gradle
 
 #### Свидетельство об окончании
-1. [Нетология: Java-разработка для начинающих](https://github.com/Karafutoman/Karafutoman/blob/main/Netology_certificate.pdf)
-2. [Нетология: Основы разработки на Java](https://github.com/Karafutoman/Karafutoman/blob/main/Netology_certificate_2.pdf)
-3. [Нетология: Основы разработки на Java_Bot](https://github.com/Karafutoman/Karafutoman/blob/main/Netology_Bot_certificate.pdf)
+1. [Нетология: Java-разработка для начинающих](https://github.com/Sylaman/Sylaman/blob/main/Нетология%20Java-разработка.pdf)
+
+#### Домашние задания с курса "Java-разработка для начинающих" от Нетологии
+#### [Netology JAVA Developer Homeworks]
+
+
+#### Домашние задания с курса "Java-разработкик" от Яндекс практикума
+#### [Yandex Practicum JAVA Developer Homeworks]
+
+
+
+#### Образование
+2022г. ООО "Нетология"
+Курс "Java-разработка для начинающих"
