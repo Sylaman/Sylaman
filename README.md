@@ -9,12 +9,10 @@
 1. [Нетология: Java-разработка для начинающих](https://github.com/Sylaman/Sylaman/blob/main/Нетология%20Java-разработка.pdf)
 
 #### Домашние задания с курса "Java-разработка для начинающих" от Нетологии
-#### [Netology JAVA Developer Homeworks]
-
+#### [Netology JAVA Developer Homeworks] (https://github.com/Sylaman/Sylaman/blob/main/Netology.md)
 
 #### Домашние задания с курса "Java-разработкик" от Яндекс практикума
 #### [Yandex Practicum JAVA Developer Homeworks]
-
 
 
 #### Образование
