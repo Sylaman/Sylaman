@@ -1,9 +1,12 @@
 ## Основы Git и Java
-1. [Generics в коллекциях и методах](https://github.com/Sylaman/MagicBox_Generics)
-2. [Коллекции List](https://github.com/Sylaman/ArrayList_Shopping_list)
-3. [Коллекции Queue](https://github.com/Sylaman/Queue_attractionSimulator)
-4. [Коллекция HashMap ](https://github.com/Sylaman/HashSet-HashMap_Task1) [и HashSet](https://github.com/Sylaman/HashSet-HashMap_Task2)
-5. [Коллекции TreeMap и TreeSet](https://github.com/Sylaman/TreeMap-TreeSet_Noblemen)
+1. [Объекты и классы. Часть 1. Методы и классы](https://github.com/Sylaman/ProductBasket)
+2. [Объекты и классы. Часть 2. Инкапсуляция]
+3. [Объекты и классы. Часть 3. Static, константы и enum]
+4. [Generics в коллекциях и методах](https://github.com/Sylaman/MagicBox_Generics)
+5. [Коллекции List](https://github.com/Sylaman/ArrayList_Shopping_list)
+6. [Коллекции Queue](https://github.com/Sylaman/Queue_attractionSimulator)
+7. [Коллекция HashMap ](https://github.com/Sylaman/HashSet-HashMap_Task1) [и HashSet](https://github.com/Sylaman/HashSet-HashMap_Task2)
+8. [Коллекции TreeMap и TreeSet](https://github.com/Sylaman/TreeMap-TreeSet_Noblemen)
 
 ## JavaCore
 1. [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/Sylaman/StreamAPI_10billionPersons)
