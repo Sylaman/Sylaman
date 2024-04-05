@@ -1,5 +1,4 @@
-<h1 align="center">Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Егор</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Коршунов Егор</a> 
 <h3 align="center"> Java-разработчик </h3>
 
 ![](https://komarev.com/ghpvc/?username=Sylaman)
@@ -30,5 +29,5 @@
 
 2022г. ООО "Нетология". "Java-разработка для начинающих" (Профессиональная переподготовка)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sylaman)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sylaman&title=Repositories,Commits,Followers,Experience,PullRequest,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
