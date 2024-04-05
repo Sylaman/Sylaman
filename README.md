@@ -5,7 +5,8 @@
 - Контроль сборки проектов и управление зависимостями на основе Maven и Gradle
 
 #### Образовательные документы
-1. [Диплом о переподготовке: Java-разработка для начинающих (Нетология)](https://github.com/Sylaman/Sylaman/blob/main/Нетология%20Java-разработка.pdf)
+1. [Диплом о высшем образовании: перевод и переводоведение](https://github.com/Sylaman/Sylaman/blob/main/Specialist%20Diploma.pdf)
+2. [Диплом о проф. переподготовке: Java-разработка для начинающих (Нетология)](https://github.com/Sylaman/Sylaman/blob/main/Netology%20Diploma.pdf)
 #### Домашние задания с курса "Java-разработка для начинающих" от Нетологии
 - [Netology JAVA Developer Homeworks](https://github.com/Sylaman/Sylaman/blob/main/Netology.md)
 #### Домашние задания с курса "Java-разработкик" от Яндекс Практикума
