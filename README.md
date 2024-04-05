@@ -12,5 +12,9 @@
 - [Yandex Practicum JAVA Developer Homeworks](https://github.com/Sylaman/Sylaman/blob/main/YandexPracticum.md)
 
 #### Образование
+
+2014г. Государственный Социально-Гуманитарный университет
+Специальность "Лингвист-Переводчик"
+
 2022г. ООО "Нетология"
 Курс "Java-разработка для начинающих"
