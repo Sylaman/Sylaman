@@ -39,5 +39,4 @@
 
 2022г. ООО "Нетология". "Java-разработка для начинающих" (Профессиональная переподготовка)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sylaman&title=Repositories,Commits,Followers,Experience,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sylaman&margin-w=25&theme=flat&title=Repositories,Commits,Followers,Experience,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
