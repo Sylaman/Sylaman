@@ -1,6 +1,6 @@
 ## Основы Git и Java
 1. [Объекты и классы. Часть 1. Методы и классы](https://github.com/Sylaman/ProductBasket)
-2. [Объекты и классы. Часть 2. Инкапсуляция]
+2. [Объекты и классы. Часть 2. Инкапсуляция](https://github.com/Sylaman/Encapsulation)
 3. [Объекты и классы. Часть 3. Static, константы и enum]
 4. [Generics в коллекциях и методах](https://github.com/Sylaman/MagicBox_Generics)
 5. [Коллекции List](https://github.com/Sylaman/ArrayList_Shopping_list)
