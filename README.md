@@ -12,8 +12,18 @@
 
 [![codewars](https://www.codewars.com/users/Sylamann/badges/large)](https://www.codewars.com/users/Sylamann)   
 
+###  Soft skills
+- Навыки коммуникаций
+- Тайм-менеджмент
+- Умение работать в команде
+- Креативное мышление
+- Эмоциональный интеллект
+- Внимание
+- Целеустремленность
+
 ###  Иностранные языки
 - Английский: Advanced
+- Немецкий: Beginner
 
 #### Образовательные документы
 1. [Диплом о высшем образовании: перевод и переводоведение](https://github.com/Sylaman/Sylaman/blob/main/Specialist%20Diploma.pdf)
