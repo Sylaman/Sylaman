@@ -14,7 +14,7 @@
 
 [![codewars](https://www.codewars.com/users/Sylamann/badges/large)](https://www.codewars.com/users/Sylamann)   
 
-###  Soft skills
+##  Soft skills
 - Навыки коммуникаций
 - Тайм-менеджмент
 - Умение работать в команде
@@ -23,22 +23,22 @@
 - Внимание, усидчивость
 - Целеустремленность, желание развиваться
 
-###  Иностранные языки
+##  Иностранные языки
 - Английский: Advanced
 - Немецкий: Beginner
 
-#### Образовательные документы
-1. [Диплом о высшем образовании: перевод и переводоведение](https://github.com/Sylaman/Sylaman/blob/main/Specialist%20Diploma.pdf)
-2. [Диплом о проф. переподготовке: Java-разработка для начинающих (Нетология)](https://github.com/Sylaman/Sylaman/blob/main/Netology%20Diploma.pdf)
-#### Проекты с курса "Java-разработка для начинающих" от Нетологии
-- [Netology JAVA Developer Projects](https://github.com/Sylaman/Sylaman/blob/main/Netology.md)
-#### Проекты с курса "Java-разработкик" от Яндекс Практикума
-- [Yandex Practicum JAVA Developer Projects](https://github.com/Sylaman/Sylaman/blob/main/YandexPracticum.md)
+##  Портфолио
+- [Поисковая система](https://github.com/Sylaman/Diploma-Project-Search-Engine)
 
-### Образование
+## Образование
+2014г. Государственный Социально-Гуманитарный университет. "Лингвист-Переводчик" (Высшее образование, специалитет)<br>
+[Диплом](https://github.com/Sylaman/Sylaman/blob/main/Specialist%20Diploma.pdf)
 
-2014г. Государственный Социально-Гуманитарный университет. "Лингвист-Переводчик" (Высшее образование, специалитет)
+2022г. ООО "Нетология". "Java-разработка для начинающих" (Профессиональная переподготовка) <br>
+[Диплом](https://github.com/Sylaman/Sylaman/blob/main/Netology%20Diploma.pdf) <br>
+[Практические задания](https://github.com/Sylaman/Sylaman/blob/main/Netology.md)
 
-2022г. ООО "Нетология". "Java-разработка для начинающих" (Профессиональная переподготовка)
+2025г. АНО ДПО «Образовательные технологии Яндекса» (Яндекс Практикум). "Java-разработкик" (Профессиональная переподготовка) <br>
+[Практические задания](https://github.com/Sylaman/Sylaman/blob/main/YandexPracticum.md)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sylaman&margin-w=25&theme=flat&title=Repositories,Commits,Followers,Experience,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
