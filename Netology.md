@@ -22,4 +22,4 @@
 3. [Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility](https://github.com/Sylaman/Iterator_pattern)
 
 ## Дипломная работа 
-[«Поисковая система»](https://github.com/Sylaman/Diploma-Project-Search-Engine)
+[Поисковая система](https://github.com/Sylaman/Diploma-Project-Search-Engine)
