@@ -7,5 +7,6 @@
 - [Декомпозиция и рефакторинг](https://github.com/Sylaman/Financial-app.git)
 - [Финальный проект](https://github.com/Sylaman/Yandex-Practicum-Sprint-2.git)
 
-- #### Спринт 3: Сложные типа данных, коллекции
+#### Спринт 3: Сложные типа данных, коллекции
 - [Финальный проект]
+- 
