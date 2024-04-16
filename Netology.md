@@ -5,11 +5,12 @@
 4. [Массивы](https://github.com/Sylaman/Hospital-TemperatureArray-)
 5. [Generics в коллекциях и методах](https://github.com/Sylaman/MagicBox_Generics)
 6. [Строки. Регулярные выражения](https://github.com/Sylaman/PhoneCleanerRegex.git)
-7. [Списки: ToDoList (ArrayList + RegEx)](https://github.com/Sylaman/ArrayList-ToDoList.git)
-8. [Коллекции List](https://github.com/Sylaman/ArrayList_Shopping_list)
+7. [Коллекции List](https://github.com/Sylaman/ArrayList_Shopping_list)
+8. [Списки: ToDoList (ArrayList + RegEx)](https://github.com/Sylaman/ArrayList-ToDoList.git)
 9. [Коллекции Queue](https://github.com/Sylaman/Queue_attractionSimulator)
 10. [Коллекция HashMap ](https://github.com/Sylaman/HashSet-HashMap_Task1) [и HashSet](https://github.com/Sylaman/HashSet-HashMap_Task2)
 11. [Коллекции TreeMap и TreeSet](https://github.com/Sylaman/TreeMap-TreeSet_Noblemen)
+12. [Множества: EmailList (TreeSet + RegEX)](https://github.com/Sylaman/TreeSet---EmailList.git)
 
 ## JavaCore
 1. [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/Sylaman/StreamAPI_10billionPersons)
