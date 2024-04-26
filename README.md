@@ -4,12 +4,14 @@
 ![](https://komarev.com/ghpvc/?username=Sylaman)
 
 ###  Hard skills
-- Программирование на Java
-- Работа с профессиональной системой контроля версий Git
+- Уверенное знание Java Syntax, Java Core
+- Работа с системой контроля версий Git (GitLab, GitHub)
 - Знание принципов ООП, методологий разработки, использование шаблонов проектирования.
 - Контроль сборки проектов и управление зависимостями на основе Maven и Gradle
 - Работа с сетью. UPD, TCP/HTTP, OSI
-- Работа с большими базами данных, SQL-запросы
+- Знание Spring Framework (Boot, ORM);
+- Знание реляционных СУБД, PostgreSQL
+- Знание Docker
 - Многопоточное программирование 
 
 [![codewars](https://www.codewars.com/users/Sylamann/badges/large)](https://www.codewars.com/users/Sylamann)   
