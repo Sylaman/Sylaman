@@ -7,10 +7,11 @@
 6. [Строки. Регулярные выражения](https://github.com/Sylaman/PhoneCleanerRegex.git)
 7. [Коллекции List](https://github.com/Sylaman/ArrayList_Shopping_list)
 8. [Списки: ToDoList (ArrayList + RegEx)](https://github.com/Sylaman/ArrayList-ToDoList.git)
-9. [Коллекции Queue](https://github.com/Sylaman/Queue_attractionSimulator)
-10. [Коллекция HashMap ](https://github.com/Sylaman/HashSet-HashMap_Task1) [и HashSet](https://github.com/Sylaman/HashSet-HashMap_Task2)
-11. [Коллекции TreeMap и TreeSet](https://github.com/Sylaman/TreeMap-TreeSet_Noblemen)
-12. [Множества: EmailList (TreeSet + RegEX)](https://github.com/Sylaman/TreeSet---EmailList.git)
+9. [Коллекции TreeMap и TreeSet](https://github.com/Sylaman/TreeMap-TreeSet_Noblemen)
+10. [Множества: EmailList (TreeSet + RegEX)](https://github.com/Sylaman/TreeSet---EmailList.git)
+11. [Коллекция HashMap ](https://github.com/Sylaman/HashSet-HashMap_Task1) [и HashSet](https://github.com/Sylaman/HashSet-HashMap_Task2)
+12. [Коллекции: PhoneBook (HashMap + RegEx)](https://github.com/Sylaman/HashMap_PhoneBook.git)
+13. [Коллекции Queue](https://github.com/Sylaman/Queue_attractionSimulator)
 
 ## JavaCore
 1. [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/Sylaman/StreamAPI_10billionPersons)
