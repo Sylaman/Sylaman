@@ -4,9 +4,9 @@
 - [Финальный проект спринта. Список покупок](https://github.com/Sylaman/Yandex-Practicum-Sprint-1)
 
 #### Спринт 2: Методы, область видимости, объекты и классы
-- [Декомпозиция и рефакторинг](https://github.com/Sylaman/Financial-app.git)
+- [Финансовое приложение, итерация 2: Декомпозиция и рефакторинг](https://github.com/Sylaman/Financial-app.git)
 - [Финальный проект спринта. Счётчик калорий](https://github.com/Sylaman/Yandex-Practicum-Sprint-2.git)
 
 #### Спринт 3: Сложные типы данных, коллекции
+- [Финансовое приложение, итерация 3: разделение трат по категориям, внедрение HashMap](https://github.com/Sylaman/Financial_app-v3.git)
 - [Финальный проект спринта.]
-- 
