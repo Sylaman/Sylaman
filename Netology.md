@@ -1,3 +1,5 @@
+**Здесь собраны домашние задания с курса Java-разработки от Нетологии и дополнительные проекты, ТЗ которых найдено в различных источниках.**
+
 ## Основы Git и Java
 1. [Объекты и классы. Часть 1. Методы и классы](https://github.com/Sylaman/ProductBasket)
 2. [Объекты и классы. Часть 2. Инкапсуляция](https://github.com/Sylaman/Encapsulation)
@@ -10,7 +12,7 @@
 9. [Коллекции TreeMap и TreeSet](https://github.com/Sylaman/TreeMap-TreeSet_Noblemen)
 10. [Множества: EmailList (TreeSet + RegEX)](https://github.com/Sylaman/TreeSet---EmailList.git)
 11. [Коллекция HashMap ](https://github.com/Sylaman/HashSet-HashMap_Task1) [и HashSet](https://github.com/Sylaman/HashSet-HashMap_Task2)
-12. [Коллекции: PhoneBook (HashMap + RegEx)](https://github.com/Sylaman/HashMap_PhoneBook.git)
+12. [Коллекции HashMap и TreeSet](git@github.com:Sylaman/PhoneBook.git)
 13. [Коллекции Queue](https://github.com/Sylaman/Queue_attractionSimulator)
 
 ## JavaCore
