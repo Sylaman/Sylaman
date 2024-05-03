@@ -28,9 +28,11 @@
 ##  Иностранные языки
 - Английский: Advanced
 - Немецкий: Beginner
+---
 
 ##  Портфолио
 - [Поисковая система](https://github.com/Sylaman/Diploma-Project-Search-Engine)
+---
 
 ## Образование
 2014г. Государственный Социально-Гуманитарный университет. "Лингвист-Переводчик" (Высшее образование, специалитет)<br>
@@ -38,9 +40,12 @@
 
 2022г. ООО "Нетология". "Java-разработка для начинающих" (Профессиональная переподготовка) <br>
 [Диплом](https://github.com/Sylaman/Sylaman/blob/main/Netology%20Diploma.pdf) <br>
-[Практические задания](https://github.com/Sylaman/Sylaman/blob/main/Netology.md)
 
 2025г. АНО ДПО «Образовательные технологии Яндекса» (Яндекс Практикум). "Java-разработкик" (Профессиональная переподготовка) <br>
 [Практические задания](https://github.com/Sylaman/Sylaman/blob/main/YandexPracticum.md)
 
+
+[Дополнительная практика](https://github.com/Sylaman/Sylaman/blob/main/Practice.md)  
+
+---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sylaman&margin-w=25&theme=flat&title=Repositories,Commits,Followers,Experience,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
