@@ -9,9 +9,10 @@
 6. [Коллекции: ToDoList](https://github.com/Sylaman/ArrayList-ToDoList.git)
 7. [Коллекции: EmailList](https://github.com/Sylaman/TreeSet---EmailList.git)
 8. [Коллекции: PhoneBook](https://github.com/Sylaman/PhoneBook.git)
-9. [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/Sylaman/StreamAPI_10billionPersons)
-10. Сборка проектов. [Maven](https://github.com/Sylaman/MavenProject) и [Gradle](https://github.com/Sylaman/GradleProject)
-11. [Mockito. Мокирование вызовов](https://github.com/Sylaman/Mockito_GeoService)
+9. [Сортировка и поиск в коллекциях: Cool licence plates](https://github.com/Sylaman/CoolNumbers.git)
+10. [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/Sylaman/StreamAPI_10billionPersons)
+11. Сборка проектов. [Maven](https://github.com/Sylaman/MavenProject) и [Gradle](https://github.com/Sylaman/GradleProject)
+12. [Mockito. Мокирование вызовов](https://github.com/Sylaman/Mockito_GeoService)
 
 ## Шаблоны проектирования
 1. [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/Sylaman/Builder_pattern)
