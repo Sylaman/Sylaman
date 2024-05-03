@@ -44,8 +44,8 @@
 2025г. АНО ДПО «Образовательные технологии Яндекса» (Яндекс Практикум). "Java-разработкик" (Профессиональная переподготовка) <br>
 [Практические задания](https://github.com/Sylaman/Sylaman/blob/main/YandexPracticum.md)
 
+---
 
 [Дополнительная практика](https://github.com/Sylaman/Sylaman/blob/main/Practice.md)  
 
----
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sylaman&margin-w=25&theme=flat&title=Repositories,Commits,Followers,Experience,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
