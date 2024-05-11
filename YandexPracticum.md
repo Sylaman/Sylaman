@@ -12,7 +12,8 @@
 - [Финальный проект спринта.](https://github.com/Sylaman/Yandex-Practicum-Sprint-3.git)
 
 #### Спринт 4: Инкапсуляция и наследование, класс Object и его методы, статические поля и методы, константы и Enum
-- [Финальный проект спринта.](https://github.com/Sylaman/Yandex-Practicum-Sprint-4.git)
+- [Наследование](https://github.com/Sylaman/SOUPER-3000.git)
+- [Финальный проект спринта. Трекер задач ver 0.1](https://github.com/Sylaman/Yandex-Practicum-Sprint-4.git)
 
 #### Спринт 5: Абстракция и полиморфизм, дженерики, Unit-тесты, фреймворк JUnit 
 - [Финальный проект спринта.]
